@@ -1,0 +1,12 @@
+#
+# fips-libigl
+#
+---
+exports:
+    header-dirs: 
+      - libigl/include
+      - libigl/external/eigen
+      - libigl/external/triangle
+      
+    modules:
+      libigl: libigl/
